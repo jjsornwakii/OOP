@@ -39,7 +39,7 @@ public class Pro3_64010850 {
             if (isPrime(n)&&palindrom(n)) { 
                     j++;
                       System.out.print(n + " ");
-                    if (j == 780){
+                    if (j == 1000){
                         break;
                     }
                     else if (j % 10 == 0)
